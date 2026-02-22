@@ -13,7 +13,7 @@ public class Main {
                 "<div class=\"hero-section text-center py-5\" style=\"background: #003049;\">\n" +
                 "    <div class=\"container py-5\">\n" +
                 "        <h1 class=\"display-4 fw-bold text-white\">Welcome to <span style=\"color: #669bbc;\">Engineering Course Registration</span></h1>\n" +
-                "        <p class=\"lead text-white mb-4\">Your gateway to PCM‑based engineering admissions – register, check eligibility, and explore courses.</p>\n" +
+                "        <p class=\"lead text-white mb-4\">Your gateway to PCM based engineering admissions register, check eligibility, and explore courses.</p>\n" +
                 "        <div class=\"d-flex justify-content-center gap-3 flex-wrap\">\n" +
                 "            <a href=\"/register\" class=\"btn btn-light btn-lg px-4 py-3 rounded-pill shadow-sm\" style=\"background: #669bbc; color: white; border: none;\"><i class=\"bi bi-person-plus-fill me-2\"></i>Register</a>\n" +
                 "            <a href=\"/login\" class=\"btn btn-outline-light btn-lg px-4 py-3 rounded-pill\" style=\"border-color: #669bbc; color: #669bbc;\"><i class=\"bi bi-box-arrow-in-right me-2\"></i>Login</a>\n" +
@@ -454,7 +454,7 @@ public class Main {
                 "\n" +
                 "    <footer class=\"text-center py-4\">\n" +
                 "        <div class=\"container\">\n" +
-                "            <p class=\"mb-0\">© 2026 Engineering Registration System - Designed by Pragati Prajapati</p>\n" +
+                "            <p class=\"mb-0\"> @2026 Engineering Registration System - Designed by Pragati Prajapati</p>\n" +
                 "        </div>\n" +
                 "    </footer>\n" +
                 "\n" +
