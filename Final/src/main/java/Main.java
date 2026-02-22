@@ -30,7 +30,7 @@ public class Main {
                 "                <div class=\"card-body text-center p-4\">\n" +
                 "                    <i class=\"bi bi-person-check-fill display-1\" style=\"color: #669bbc;\"></i>\n" +
                 "                    <h5 class=\"card-title mt-3\" style=\"color: #003049;\">Easy Registration</h5>\n" +
-                "                    <p class=\"card-text text-muted\">Quick sign‑up with name, email, and caste.</p>\n" +
+                "                    <p class=\"card-text text-muted\">Quick sign up with name, email, and caste.</p>\n" +
                 "                </div>\n" +
                 "            </div>\n" +
                 "        </div>\n" +
