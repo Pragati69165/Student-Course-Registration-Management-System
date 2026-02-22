@@ -1,0 +1,11 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "mvn clean compile"
+  },
+  "deploy": {
+    "startCommand": "java -cp target/classes com.engineering.Main",
+    "healthcheckPath": "/",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
